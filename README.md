@@ -1,0 +1,3 @@
+## Fundamentos Python
+
+Python é uma linguagem de programação de alto nível, com sintaxe simplificada e próxima da linguagem humana, utilizada nas mais diversas aplicações, como desktop, web, servidores e ciência de dados1. Ela foi projetada para dar ênfase no trabalho do desenvolvedor, facilitando a escrita de um código limpo, simples e legível, tanto em aplicações menores quanto em programas mais complexos2. Além disso, Python é gratuita, open source e foi projetada com o objetivo de ser de fácil leitura e utilização3. Sua versatilidade e riqueza de bibliotecas prontas para uso imediato tornam-na uma escolha popular entre programadores e cientistas de dados
